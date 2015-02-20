@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/rachel_twyford/code/liveon/app/models'
+let g:netrw_dirhist_2='/Users/rachel_twyford/code/liveon/app'
+let g:netrw_dirhist_3='/Users/rachel_twyford/code/liveon/spec/fixtures/cassettes/LegacyMigration_AssessmentImporter'
+let g:netrw_dirhist_4='/Users/rachel_twyford/code/liveon/spec/fixtures/cassettes/LegacyMigration_AssessmentImporter/_import'
+let g:netrw_dirhist_5='/Users/rachel_twyford/code/assessment_service/.git'
